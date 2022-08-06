@@ -1,0 +1,24 @@
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\Image Augmentation Grayscale.exe.config
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\Image Augmentation Grayscale.exe
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\Image Augmentation Grayscale.pdb
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\AForge.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\AForge.Imaging.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\AForge.Math.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\OpenCvSharp.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\System.Buffers.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\System.Drawing.Common.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\System.Memory.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\obj\Debug\Image Augmentation Grayscale.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\obj\Debug\Image Augmentation Grayscale.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\obj\Debug\Image Augmentation Grayscale.exe.config
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\obj\Debug\Image Augmentation Grayscale.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\obj\Debug\Image Augmentation Grayscale.csproj.CopyComplete
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\obj\Debug\Image Augmentation Grayscale.exe
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Image Augmentation Grayscale\obj\Debug\Image Augmentation Grayscale.pdb
