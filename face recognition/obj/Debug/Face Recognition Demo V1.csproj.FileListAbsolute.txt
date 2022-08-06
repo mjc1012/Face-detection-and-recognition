@@ -1,0 +1,24 @@
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\Face Recognition Demo V1.exe.config
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\Face Recognition Demo V1.exe
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\Face Recognition Demo V1.pdb
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\OpenCvSharp.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\System.Buffers.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\System.Drawing.Common.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\System.Memory.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face Recognition Demo V1.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face Recognition Demo V1.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face Recognition Demo V1.exe.config
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face_Recognition_Demo_V1.Form1.resources
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face_Recognition_Demo_V1.Properties.Resources.resources
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face Recognition Demo V1.csproj.GenerateResource.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face Recognition Demo V1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face Recognition Demo V1.csproj.CopyComplete
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face Recognition Demo V1.exe
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Demo V1\obj\Debug\Face Recognition Demo V1.pdb
