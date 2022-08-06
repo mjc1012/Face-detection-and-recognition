@@ -1,0 +1,27 @@
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\Face Collection V2.exe
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\Face Collection V2.deps.json
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\Face Collection V2.runtimeconfig.json
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\Face Collection V2.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\Face Collection V2.pdb
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\OpenCvSharp.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\OpenCvSharp.Extensions.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\Face Collection V2.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\Face Collection V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\Face Collection V2.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\Face Collection V2.AssemblyInfo.cs
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\Face Collection V2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\Face Collection V2.csproj.CopyComplete
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\Face Collection V2.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\refint\Face Collection V2.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\Face Collection V2.pdb
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\Face Collection V2.genruntimeconfig.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Collection V2\obj\Debug\net6.0\ref\Face Collection V2.dll
