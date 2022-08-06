@@ -1,0 +1,49 @@
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\Face Recognition Training V1.exe
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\Face Recognition Training V1.deps.json
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\Face Recognition Training V1.runtimeconfig.json
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\Face Recognition Training V1.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\Face Recognition Training V1.pdb
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\Emgu.CV.Platform.NetStandard.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\Emgu.CV.Bitmap.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\Emgu.CV.Platform.NetCore.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\OpenCvSharp.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\OpenCvSharp.Extensions.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\cvextern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\cvextern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\concrt140.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_1.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_2.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\concrt140.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_1.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_2.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\Face Recognition Training V1.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\Face Recognition Training V1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\Face Recognition Training V1.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\Face Recognition Training V1.AssemblyInfo.cs
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\Face Recognition Training V1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\Face Recognition Training V1.csproj.CopyComplete
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\Face Recognition Training V1.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\refint\Face Recognition Training V1.dll
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\Face Recognition Training V1.pdb
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\Face Recognition Training V1.genruntimeconfig.cache
+D:\Visual Studio Projects\FINAL VERSIONS FOR FACE RECOGNITION IMPLEMENTATION\Face Recognition Training V1\obj\Debug\net6.0\ref\Face Recognition Training V1.dll
